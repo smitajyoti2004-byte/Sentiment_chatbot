@@ -1,0 +1,221 @@
+{
+    "conversations": [
+        {
+            "timestamp": "2025-12-03 14:26:00",
+            "role": "user",
+            "message": "i feel happy today",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:26:00",
+            "role": "assistant",
+            "message": "Sentiment: Positive",
+            "sentiment": "Positive"
+        },
+        {
+            "timestamp": "2025-12-03 14:26:00",
+            "role": "assistant",
+            "message": "That's wonderful! What made you feel that way?",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:26:11",
+            "role": "user",
+            "message": "hello",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:26:11",
+            "role": "assistant",
+            "message": "Sentiment: Neutral",
+            "sentiment": "Neutral"
+        },
+        {
+            "timestamp": "2025-12-03 14:26:11",
+            "role": "assistant",
+            "message": "Hello! How can I assist you today?",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:26:30",
+            "role": "user",
+            "message": "so much tired",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:26:30",
+            "role": "assistant",
+            "message": "Sentiment: Negative",
+            "sentiment": "Negative"
+        },
+        {
+            "timestamp": "2025-12-03 14:26:30",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:31:57",
+            "role": "user",
+            "message": "The weather is beautiful today.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:31:57",
+            "role": "assistant",
+            "message": "Sentiment: Positive",
+            "sentiment": "Positive"
+        },
+        {
+            "timestamp": "2025-12-03 14:31:57",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:32:07",
+            "role": "user",
+            "message": "I am very tired.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 14:32:07",
+            "role": "assistant",
+            "message": "Sentiment: Negative",
+            "sentiment": "Negative"
+        },
+        {
+            "timestamp": "2025-12-03 14:32:07",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:13:17",
+            "role": "user",
+            "message": "The weather is beautiful.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:13:17",
+            "role": "assistant",
+            "message": "Sentiment: Positive",
+            "sentiment": "Positive"
+        },
+        {
+            "timestamp": "2025-12-03 18:13:17",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:13:28",
+            "role": "user",
+            "message": "I am very tired.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:13:28",
+            "role": "assistant",
+            "message": "Sentiment: Negative",
+            "sentiment": "Negative"
+        },
+        {
+            "timestamp": "2025-12-03 18:13:28",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:16:24",
+            "role": "user",
+            "message": "The weather is beautiful.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:16:24",
+            "role": "assistant",
+            "message": "Sentiment: Positive",
+            "sentiment": "Positive"
+        },
+        {
+            "timestamp": "2025-12-03 18:16:24",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:16:34",
+            "role": "user",
+            "message": "I am very tired.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:16:34",
+            "role": "assistant",
+            "message": "Sentiment: Negative",
+            "sentiment": "Negative"
+        },
+        {
+            "timestamp": "2025-12-03 18:16:34",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:18:54",
+            "role": "user",
+            "message": "The weather is beautiful.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:18:54",
+            "role": "assistant",
+            "message": "Sentiment: Positive",
+            "sentiment": "Positive"
+        },
+        {
+            "timestamp": "2025-12-03 18:18:54",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:19:03",
+            "role": "user",
+            "message": "I am very tired.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:19:03",
+            "role": "assistant",
+            "message": "Sentiment: Negative",
+            "sentiment": "Negative"
+        },
+        {
+            "timestamp": "2025-12-03 18:19:03",
+            "role": "assistant",
+            "message": "I understand. Tell me more.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:54:25",
+            "role": "user",
+            "message": "i am very happy.",
+            "sentiment": null
+        },
+        {
+            "timestamp": "2025-12-03 18:54:25",
+            "role": "assistant",
+            "message": "Sentiment: Positive",
+            "sentiment": "Positive"
+        },
+        {
+            "timestamp": "2025-12-03 18:54:25",
+            "role": "assistant",
+            "message": "That's wonderful! What made you feel that way?",
+            "sentiment": null
+        }
+    ],
+    "final_sentiment": null
+}
