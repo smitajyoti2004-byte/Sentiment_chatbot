@@ -1,4 +1,4 @@
-# 💬 Sentiment Chatbot — LIA_PLUS-AI
+# Sentiment Chatbot — LIA_PLUS-AI
 
 This project implements a Python-based sentiment analysis chatbot using Streamlit as the UI and TextBlob for NLP sentiment analysis.  
 It maintains a full conversation history, performs per-message sentiment (Tier 2),  
@@ -7,7 +7,7 @@ All chats are stored in JSON.
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 Follow these steps to launch the chatbot:
 
@@ -31,7 +31,7 @@ py -m streamlit run app.py
 
 ---
 
-# ▶️ Push the updated README to GitHub
+#  Push the updated README to GitHub
 
 After updating your README.md:
 
